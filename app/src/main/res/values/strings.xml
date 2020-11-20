@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VideoShop</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="radio_age1">10-17</string>
+    <string name="radio_age2">18-40</string>
+    <string name="radio_age3">41-60</string>
+    <string name="radio_age4">60 - 100</string>
+    <string name="sex_prompt">sex_prompt</string>
+    <string name="userfullName">userfullName</string>
+
+    <string-array name="country_arrays">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+</resources>
